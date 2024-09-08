@@ -1,6 +1,6 @@
 [<img src="" alt="👋 Hi there! I'm (MOHAEMD ADEL)" title="👋 Hi there! I'm (MOHAMED ADEL)"/>]
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
+
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
